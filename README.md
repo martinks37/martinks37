@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Martin K Sebastian
 
-<!--
-**martinks37/martinks37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer**  
+🌐 [LinkedIn](https://www.linkedin.com/in/martin-k-sebastian-3a076b255)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+Passionate developer skilled in building efficient and robust solutions. I enjoy working with a range of programming languages and always strive to learn and improve.
+
+## 🛠️ Languages & Technologies
+
+- **Java**
+- **C**
+- **Python**
+- **SQL**
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/martin-k-sebastian-3a076b255)
+
+---
+
+> Let’s connect and collaborate on exciting projects!
